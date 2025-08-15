@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 😎 Who Am I?
-  Im Yangle, aka Meteorte, a student come from China.
-- 🌏 Where do I live
-  I Live in Shanghai
+- 😎 Im Yangle, aka Meteorte, a student come from China.
+- 🌱 I’m currently learning Python, Guitar, Japanese ang English
+- 📫 How to reach me: You can catch me in [My blog](https://blog.lemonstar.me) or [My Homepage](https://lemonstar.me)
 <!--
 **yangle-q/yangle-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
