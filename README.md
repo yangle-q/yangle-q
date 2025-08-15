@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **yangle-q/yangle-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangle-q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Yangle-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangle-q&show_icons=true&theme=merko)
-![snake](./assets/github-contribution-grid-snake-dark.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangle-q&layout=compact)
+![Yangle-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangle-q&show_icons=true)
