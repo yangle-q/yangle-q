@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 😎 Who Am I?
-- Im Yangle, aka Meteorte, a student come from China.
+  Im Yangle, aka Meteorte, a student come from China.
+- 🌏 Where do I live
+  I Live in Shanghai
 <!--
 **yangle-q/yangle-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
