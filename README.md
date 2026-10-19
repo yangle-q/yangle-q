@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 
 <!-- ![Yangle-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangle-q&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangle-q&layout=compact) -->
-![Tanchishe](https://github.com/yangle-q/homepage/blob/main/static/svg/snake-Light.svg)
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg">
+  </picture>
+</div>
