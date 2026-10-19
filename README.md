@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Yangle-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangle-q&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangle-q&layout=compact) -->
+![Yangle-q's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangle-q&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangle-q&layout=compact)
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yangle-q/yangle-q/output/github-snake-dark.svg">
