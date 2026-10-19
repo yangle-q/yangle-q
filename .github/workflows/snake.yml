@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  # 每天 UTC 时间 0 点自动运行（可根据需要调整 cron 表达式）
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许在 Actions 页面手动触发，方便测试
+  workflow_dispatch:
+  # 每次推送到 main 分支时也触发
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          # 自动获取当前仓库所有者（即你的用户名）的贡献数据
+          github_user_name: ${{ github.repository_owner }}
+          # 定义生成的文件列表，每行一个
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
